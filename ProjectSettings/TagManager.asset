@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Battery
+  - Pengaman
+  - Beban
+  - Switch
+  - Relay
+  - Line
+  - Tabel
+  - TabelSwitch
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2125561243
+    locked: 0
+  - name: Line
+    uniqueID: 1301886793
+    locked: 0
+  - name: Asset
+    uniqueID: 1657410791
+    locked: 0
+  - name: Tabel
+    uniqueID: 1691873661
+    locked: 0
+  - name: LineTabel
+    uniqueID: 1671690639
+    locked: 0
